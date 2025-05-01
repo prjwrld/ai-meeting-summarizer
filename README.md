@@ -102,7 +102,38 @@ touch .env
 # Run the Flask app
 python3 ui/main.py
 ```
-<img width="385" alt="Screenshot 2025-05-01 at 4 42 21 PM" src="https://github.com/user-attachments/assets/19a0361a-d138-40d3-90e3-d4891e4abdd0" />
+<h3>🌩 Azure Deployment Summary</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>App Service</td>
+      <td><code>meeting-summarizer-prajwal</code></td>
+    </tr>
+    <tr>
+      <td>Plan Type</td>
+      <td>Free (Linux, F1)</td>
+    </tr>
+    <tr>
+      <td>Runtime</td>
+      <td>Python 3.12</td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
+      <td>Azure DevOps Git Repo</td>
+    </tr>
+    <tr>
+      <td>Startup Command</td>
+      <td><code>gunicorn -b 0.0.0.0:$PORT ui.main:app</code></td>
+    </tr>
+  </tbody>
+</table>
 
 📦 Deployment Workflow
 	1.	🧠 Build AI logic using Whisper and Hugging Face
