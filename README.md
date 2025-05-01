@@ -166,9 +166,9 @@ Built with ❤️ and deployed on Azure</p>
   </a>
 </p>
 
-📜 License
+## 📜 License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 ---
 ```
 ✅ Let me know if you want a pre-formatted version uploaded directly to your repo or rendered for preview.
