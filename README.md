@@ -23,15 +23,7 @@ A production-ready AI-powered web app that transcribes `.wav` audio files and su
 ---
 
 ## 🛠️ Tech Stack
-```
-| Layer        | Technology                         |
-|--------------|------------------------------------|
-| Frontend     | HTML, CSS (Bootstrap)              |
-| Backend      | Python Flask                       |
-| AI/ML APIs   | Hugging Face, OpenAI Whisper       |
-| Hosting      | Azure App Services (Linux)         |
-| DevOps       | Azure DevOps Git Repository        |
-```
+
 <table>
   <thead>
     <tr>
