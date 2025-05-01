@@ -135,12 +135,15 @@ python3 ui/main.py
   </tbody>
 </table>
 
-📦 Deployment Workflow
-	1.	🧠 Build AI logic using Whisper and Hugging Face
-	2.	🔨 Test locally with curl and sample .wav
-	3.	🗂️ Push to Azure DevOps Git repo
-	4.	☁️ Deployed to Azure App Services
-	5.	🔁 Live updates using git push to DevOps or GitHub
+<h3>📦 Deployment Workflow</h3>
+
+<ol>
+  <li>🧠 <strong>Build</strong> AI logic using Whisper and Hugging Face</li>
+  <li>🔨 <strong>Test</strong> locally with <code>curl</code> and sample <code>.wav</code> file</li>
+  <li>🗂️ <strong>Push</strong> code to Azure DevOps Git repository</li>
+  <li>☁️ <strong>Deploy</strong> automatically to Azure App Services</li>
+  <li>🔁 <strong>Update</strong> live site anytime using <code>git push</code> to DevOps or GitHub</li>
+</ol>
  
 📸 Preview
 <img width="1392" alt="Screenshot 2025-05-01 at 4 43 05 PM" src="https://github.com/user-attachments/assets/18893d23-8e4a-4787-b3d9-9e95f8e8c0b8" />
