@@ -149,15 +149,17 @@ python3 ui/main.py
 <img width="1392" alt="Screenshot 2025-05-01 at 4 43 05 PM" src="https://github.com/user-attachments/assets/18893d23-8e4a-4787-b3d9-9e95f8e8c0b8" />
 <img width="1392" alt="Screenshot 2025-05-01 at 5 18 33 PM" src="https://github.com/user-attachments/assets/1c209af2-8fbb-44b7-9fcc-ba7c57fa8bef" />
 
-🔐 Security
-	•	✅ .env is gitignored
-	•	✅ Secrets were scrubbed from commit history
-	•	✅ GitHub Push Protection blocks exposed tokens
+<h3>🔐 Security</h3>
+<ul>
+  <li>✅ <strong>.env</strong> is gitignored</li>
+  <li>✅ Secrets were scrubbed from commit history</li>
+  <li>✅ GitHub Push Protection blocks exposed tokens</li>
+</ul>
 
- 🙋‍♂️ Author
+<h3>🙋‍♂️ Author</h3>
+<p><strong>Prajwal Prasad</strong><br>
+Built with ❤️ and deployed on Azure</p>
 
-Prajwal Prasad
-Built with ❤️ and deployed on Azure
 <p align="center">
   <a href="https://github.com/prjwrld" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?logo=github&style=for-the-badge" alt="Visit My GitHub">
